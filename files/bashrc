@@ -26,7 +26,7 @@ if [ -x /usr/bin/dircolors ]; then
 	alias fgrep='fgrep --color=auto'
 	alias egrep='egrep --color=auto'
 fi
-alias ll='ls -GFl'
+alias ll='ls -Fl'
 alias ll.='ls -Fdl .*'
 alias l.='ls -Fd .*'
 alias la='ls -a'
