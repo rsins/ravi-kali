@@ -1,6 +1,6 @@
 FROM kalilinux/kali-linux-docker:latest
 
-MAINTAINER Ravi Singh <ravikantsingh.here@gmail.com>
+MAINTAINER Ravi Singh
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV TERM xterm-256color
